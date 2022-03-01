@@ -1,0 +1,105 @@
+id: P73BBA0F5
+initial_creation_type: input
+source_metadata:
+  title: Mañjuśrīvikrīḍitasūtra
+  language: bo
+  volumes:
+    2c621556ef334dbe91a07faa73b77892:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W76EAC2E6
+    7c54dc9120f44f20a2562de9e61773a3:
+      title: Preface
+      base_file: Preface.txt
+      work_id: W6FAE7E88
+    07a5ebc7e2c9406c8e19056eeb41d7c6:
+      title: Section 1
+      base_file: Section 1.txt
+      work_id: W3A4CCE38
+    df768d35537e417f842339b60a6e3bd0:
+      title: Section 10
+      base_file: Section 10.txt
+      work_id: W2029121F
+    3f10dffdb7294a8fa9aecc984f6e300d:
+      title: Section 11
+      base_file: Section 11.txt
+      work_id: W455B4CB5
+    6ddae80360af4f9f941c3157c5f040ca:
+      title: Section 12
+      base_file: Section 12.txt
+      work_id: WB8B4B81B
+    a799b6c56f8f4c12a812570bc7e41e7b:
+      title: Section 13
+      base_file: Section 13.txt
+      work_id: WB8AFF0F3
+    6b92f741235a4feebe2f15ea609c16ef:
+      title: Section 14
+      base_file: Section 14.txt
+      work_id: WCDDA6624
+    29c9eb90eeab44bdaa091177290c37cc:
+      title: Section 15
+      base_file: Section 15.txt
+      work_id: W1204A0EB
+    5a1a916feeb94692b716ba791645aca0:
+      title: Section 16
+      base_file: Section 16.txt
+      work_id: WDA809FA8
+    bdf45f6f5bb94648a44a7fb5f14a4c21:
+      title: Section 17
+      base_file: Section 17.txt
+      work_id: W39204254
+    72682fb5cc44408f8edceafd73b4c631:
+      title: Section 18
+      base_file: Section 18.txt
+      work_id: W31E68C91
+    1a8f85c26be74d899c0838b065af0f5c:
+      title: Section 19
+      base_file: Section 19.txt
+      work_id: W96AC9C56
+    547a29be16f2406ba5b73efd44cbfad6:
+      title: Section 2
+      base_file: Section 2.txt
+      work_id: W89142044
+    f60f94fa704740e4bacf768cf7706524:
+      title: Section 20
+      base_file: Section 20.txt
+      work_id: W442CC837
+    5222b8b2febe4bdf9e16d316f01b7ad6:
+      title: Section 21
+      base_file: Section 21.txt
+      work_id: W5BAAD24D
+    8efa1a94e15a4225bd1393f6af39ab9e:
+      title: Section 3
+      base_file: Section 3.txt
+      work_id: WA4E57CDB
+    7c672fc608dc4d229cde57ebf96a7489:
+      title: Section 4
+      base_file: Section 4.txt
+      work_id: WE91C8891
+    e21ead326b2142609dade37b6958d93a:
+      title: Section 5
+      base_file: Section 5.txt
+      work_id: W2C6CA252
+    b3d8b28a34d643d8afca4fa462264144:
+      title: Section 6
+      base_file: Section 6.txt
+      work_id: WECA55CD4
+    3eff41f826624adc90e945d2d877051d:
+      title: Section 7
+      base_file: Section 7.txt
+      work_id: WCB773049
+    1a862f9e32f849ecb69d16e86d6f8a6a:
+      title: Section 8
+      base_file: Section 8.txt
+      work_id: WA47FC78A
+    b6b4394c81564d82b2e051aa344670e4:
+      title: Section 9
+      base_file: Section 9.txt
+      work_id: WF9FB0F10
+    3889c02bba934c7ba3c8a7bbe16e26c1:
+      title: Title
+      base_file: Title.txt
+      work_id: W71272E25
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:42:53.092564'
+last_modified_at: '2022-03-01T21:42:53.092572'
